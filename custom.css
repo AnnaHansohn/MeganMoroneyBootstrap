@@ -1,0 +1,63 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+
+
+.new-amsterdam-regular {
+  font-family: "New Amsterdam", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header {
+	background-image: url(Images/megan.jpeg);
+	background-position: center top;
+
+}
+
+h1, h2, h3 {
+    font-family: 'New Amsterdam', serif;
+}
+
+
+h1 {
+	color: #0610E6;
+}
+h2 {
+	color: #0610E6;
+}
+
+
+
+.btn-light {
+
+	background-color: #0610E6;
+	color: white;
+	font-family: "New Amsterdam";
+}
+
+
+
+.btn-primary {
+
+	background-color: #0610E6;
+	color: white;
+	font-family: "New Amsterdam";
+
+}
+
+
+.bi-instagram {
+     color: whitesmoke;
+     font-size: 50px;
+
+}
+
+
+.nav-item {
+	font-family:'New Amsterdam', serif ;
+}
+
+.navbar-brand {
+	font-family: 'New Amsterdam', serif ;
+	color: #0610E6;
+}
